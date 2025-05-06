@@ -1,0 +1,23 @@
+body {
+  background: #dce0e4;
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style: none;
+}
+.btn-kanan {
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+}
+.color-btn {
+  gap: 12px;
+}
+.custom-link-box {
+  height: 20%;
+  background: var(--bs-dark);
+  &::placeholder {
+    color: whitesmoke;
+  }
+}
