@@ -1,0 +1,32 @@
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.contact-btn,
+.submit-btn {
+    --bs-btn-padding-x: 1.4rem;
+}
+
+.projekt-technologies {
+    .form-check {
+        width: 45%;
+    }
+}
+
+#clip-icon {
+    transform: rotate(45deg);
+}
+
+.form-floating {
+    width: 100%;
+}
+
+.form-check-label:hover {
+    cursor: pointer;
+}
+
+.manage-projekt-list {
+    a {
+        width: 100%;
+    }
+}
